@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ceyda Kesgin</h1>
-<h3 align="center">Computer Engineering Student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 - 🔭 I’m working on **Back-end Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CeydaKesgin5](https://github.com/CeydaKesgin5)
 
-- 💬 Ask me about **ASP. Net**
+- 💬 Ask me about **Backend Web Development and DevOps**
 
 - 📫 How to reach me **ceydaksgin@gmail.com**
 
